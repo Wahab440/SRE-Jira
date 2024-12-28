@@ -1,0 +1,56 @@
+﻿Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,,Created,Updated
+Related NFRs,S1-69,10075,NFRs Relates to S1-53,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:38,12/28/2024 11:38
+Subtask,S1-68,10074,Test Feedback Workflow,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:37,12/28/2024 11:37
+Subtask,S1-67,10073,Integrate Feedback Submission Confirmation,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:37,12/28/2024 11:37
+Subtask,S1-66,10072,Implement Backend for Feedback Storage,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:37,12/28/2024 11:37
+Subtask,S1-65,10071,Design Feedback Form UI,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:37,12/28/2024 11:37
+Related NFRs,S1-64,10070,NFRs Relates S1-9,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:35,12/28/2024 11:35
+Related NFRs,S1-63,10069,NFRs relates to S1-8,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:30,12/28/2024 11:35
+Related NFRs,S1-62,10068,NFRs relates to S1-51,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:24,12/28/2024 11:25
+Subtask,S1-61,10067,Test Ride Status Update Functionality,,,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:23,12/28/2024 11:23
+Subtask,S1-60,10066,Implement Status Update Workflow,,,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:23,12/28/2024 11:23
+Subtask,S1-59,10065,Integrate Google Maps API for Ride Tracking,,,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:23,12/28/2024 11:23
+Related NFRs,S1-58,10064,NFRs relates to S1-43,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:22,12/28/2024 11:25
+Subtask,S1-57,10063,Test Ride Status Sharing Workflow,,,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:19,12/28/2024 11:19
+Subtask,S1-56,10062,Design UI for Status Sharing,,,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:19,12/28/2024 11:19
+Subtask,S1-55,10061,Implement Ride Status Sharing Functionality,,,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:18,12/28/2024 11:18
+Epic,S1-54,10060,Driver Feedback Management,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:14,12/28/2024 11:14
+Story,S1-53,10059,"As a rider, I want to leave feedback about my driver to help others choose reliable drivers.",Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:14,12/28/2024 11:15
+Epic,S1-52,10058,Driver Feedback Management,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:12,12/28/2024 11:12
+Story,S1-51,10057,"As a driver, I want to update ride status on Google Maps so riders and guardians can track progress.",Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:11,12/28/2024 11:21
+Related NFRs,S1-50,10056,NFRs Relates to S1-36,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:11,12/28/2024 11:11
+Subtask,S1-49,10055,Test Bid Confirmation Notifications,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:10,12/28/2024 11:10
+Subtask,S1-48,10054,UI for Bid Confirmation Alerts,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:10,12/28/2024 11:10
+Subtask,S1-47,10053,Integrate with Bid Confirmation Logic,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:10,12/28/2024 11:10
+Subtask,S1-46,10052,Develop Notification System,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:10,12/28/2024 11:10
+Epic,S1-45,10051,Ride Tracking,,,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:10,12/28/2024 11:10
+Related NFRs,S1-44,10050,NFRs Relates to S1-35,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:09,12/28/2024 11:09
+Story,S1-43,10049,"As a rider, I want to share ride status with my next of kin so they can monitor my safety.",Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/28/2024 11:09,12/28/2024 11:21
+Subtask,S1-41,10047,Test Request Viewing Workflow,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:07,12/28/2024 11:07
+Subtask,S1-40,10046,Integrate with Real-Time Updates,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:07,12/28/2024 11:07
+Subtask,S1-39,10045,Implement Backend for Request Details,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:07,12/28/2024 11:07
+Subtask,S1-37,10043,Design UI for Ride Request Details,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:07,12/28/2024 11:07
+Story,S1-36,10042,"As a driver, I want to be notified immediately when a rider confirms my bid so that I can prepare for the ride.",Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:06,12/28/2024 11:20
+Story,S1-35,10041,"As a driver, I want to view details of the rider's request (pickup, destination, and time) so that I can decide whether to bid on it.",Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:05,12/28/2024 11:20
+Epic,S1-34,10040,Accepting a Ride request,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 11:02,12/28/2024 11:02
+Related NFRs,S1-33,10039,NFRs Relates to S1-28,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 10:58,12/28/2024 10:58
+Subtask,S1-32,10038,Test Confirmation Workflow,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 10:54,12/28/2024 10:54
+Subtask,S1-31,10037,Integrate Notification System,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 10:54,12/28/2024 10:54
+Subtask,S1-30,10036,Implement Backend Booking Logic,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 10:54,12/28/2024 10:54
+Subtask,S1-29,10035,Design Confirmation UI,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 10:52,12/28/2024 10:52
+Story,S1-28,10034,"As a customer, I want to confirm my booking to finalize the ride.",Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 10:49,12/28/2024 10:52
+Related NFRs,S1-27,10033,NFRs Relates to S1-22,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 10:44,12/28/2024 10:48
+Subtask,S1-26,10032,Test and Validate Fare Offer Workflow,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 10:39,12/28/2024 10:39
+Subtask,S1-25,10031,Integrate Fare Acceptance/ Rejection Feature,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 10:38,12/28/2024 10:38
+Subtask,S1-24,10030,Implement Backend Logic for Fare Bidding,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 10:38,12/28/2024 10:38
+Subtask,S1-23,10029,Design UI for Fare Offers,,,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 10:38,12/28/2024 10:38
+Story,S1-22,10028,"As a customer, I want to accept or reject a driver’s fare offer so I can manage my budget.",Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Medium,To Do,,12/28/2024 10:16,12/28/2024 10:32
+Subtask,S1-18,10024, Update Ride Pricing Based on Vehicle Type,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/26/2024 15:51,12/26/2024 15:52
+Subtask,S1-17,10023, Implement Vehicle Type Filter Logic,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/26/2024 15:51,12/26/2024 15:52
+Subtask,S1-16,10022,Design Vehicle Type Selection Interface,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/26/2024 15:51,12/26/2024 15:52
+Subtask,S1-15,10021,Add search bar,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/26/2024 15:48,12/26/2024 15:48
+Subtask,S1-14,10020,Implement Location selection,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/26/2024 15:48,12/26/2024 15:48
+Subtask,S1-13,10019,Set up the map interface,Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/26/2024 15:47,12/26/2024 15:48
+Epic,S1-10,10016,Book a Ride,,,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/26/2024 15:30,12/26/2024 15:30
+Story,S1-9,10015,"As a customer, I want to choose the type of vehicle (car, SUV, etc.), So that I can travel in a vehicle that suits my preference and budget.",Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/26/2024 15:29,12/26/2024 16:16
+Story,S1-8,10014,"As a customer, I want to select my pickup and destination points, So that I can find available rides that suit my needs.",Muhammad Arham Jan,712020:b506bc39-09e4-41ec-b46b-1fa6b3e860fe,Abdul wahab,712020:25ea2e82-f807-47ea-b9b8-65fa0e5a1a89,Medium,To Do,,12/26/2024 15:28,12/28/2024 9:50
